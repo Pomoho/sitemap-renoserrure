@@ -1,72 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
-<url>
-  <loc>https://www.renoserrure.fr/</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/contact</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/accueil</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/Depannage</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/serrurerie</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/serrurerie/glossaire</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/serrurerie/conseils</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/vitrerie</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/vitrerie/glossaire</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/vitrerie/conseils</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/mentionsl%C3%A9gales</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.renoserrure.fr/rgpd</loc>
-  <lastmod>2025-06-10T22:31:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
+  <url>
+    <loc>https://www.renoserrure.fr/</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/contact</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/Depannage</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/serrurerie</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/serrurerie/glossaire</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/serrurerie/conseils</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/vitrerie</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/vitrerie/glossaire</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/vitrerie/conseils</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/mentionsl%C3%A9gales</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.renoserrure.fr/rgpd</loc>
+    <lastmod>2025-06-10T22:31:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
